@@ -1,0 +1,6 @@
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\bin\Debug\SimpleWCFServiceClient.exe.config
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\bin\Debug\SimpleWCFServiceClient.exe
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\bin\Debug\SimpleWCFServiceClient.pdb
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\obj\Debug\SimpleWCFServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\obj\Debug\SimpleWCFServiceClient.exe
+C:\Users\omsuthar\Documents\GitHub\WCFService\SimpleWCFService\SimpleWCFServiceClient\obj\Debug\SimpleWCFServiceClient.pdb
