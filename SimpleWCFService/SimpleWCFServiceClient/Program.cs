@@ -18,6 +18,8 @@ namespace SimpleWCFServiceClient
             var name = client.GetName();
 
             Console.WriteLine("Name of the student is " + name);
+
+            //https://msdn.microsoft.com/en-us/library/ff648360.aspx
         }
     }
 }
